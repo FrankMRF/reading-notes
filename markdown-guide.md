@@ -1,29 +1,22 @@
-# Titulo 1
-## Titulo 2
-### Titulo 3
+# Markdown
 
-**Este es mi texto en negrita**
+## ¿Qué es Markdown?
 
-__Este es mi texto 2 en negrita__
+**Markdown es un lenguaje de marcado sencillo que sirve para agregar formato, vínculos e imágenes con facilidad al texto simple.**
 
-*Esto es cursiva*
+### ¿Qué es Github?
 
-_Esto es cursiva 2_
+_GitHub es una plataforma en línea que permite a los desarrolladores crear, almacenar, compartir y trabajar en proyectos de software._
 
-1. Elemento numero 1
-2. Elemento numero 2
-3. Elemento numero 3
+## Aplicaciones de Github:
 
-## Receta de aji de gallina
+- GitHub Actions
+- GitHub Codespaces
+- GitHub Pages
 
-- Papa
-- Pollo
-- Galleta
-- Aji Amarillo
+[Markdown](https://www.markdownguide.org/)
 
-![Aji de gallina](https://cocinalocal.cl/wp-content/uploads/2022/11/Aji-de-Gallina-Peruano.jpeg)
-
-[El Comercio](https://elcomercio.pe/)
+[Github](https://github.com/)
 
 | HTML | Markdown |
 | ---- | ------- |
