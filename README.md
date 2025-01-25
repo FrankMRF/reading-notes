@@ -2,12 +2,6 @@
 
 **Mi sitio web trata de los contenidos de mis apuntes de todas las clases realizadas en el bootcamp**
 
-## Paginas personales
-
-- [TikTok](https://www.tiktok.com/@frankramos5666)
-- [Facebook](https://www.facebook.com/frank.ramos.9041/?locale=es_LA)
-- [frankmrf11@gmail.com](mailto:frankmrf11@gmail.com)
-
 ## "Notas de lectura - Code 101"
 
 - [Sesion 01](https://github.com/FrankMRF/reading-notes/blob/main/101/sesion01.md)
