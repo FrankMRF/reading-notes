@@ -1,6 +1,6 @@
 # MITOS O VERDADES
 
-**1. Usar <div> para cada sección del sitio es la mejor forma de estructurar una página.**
+**1. Usar (div) para cada sección del sitio es la mejor forma de estructurar una página.**
 
 Es un mito, porque existen otras etiquetas como SECTION, NAV, HEADER, MAIN, FOOTER que mejoran la accesibilidad y posicionamiento.
 
@@ -24,7 +24,7 @@ Es mito, también sirve para que personas con discapacidades pueden entender nue
 
 Es mito, se benefician todas las personas con o sin discapacidad, permite un mejor entendimiento del código desarrollado.
 
-**7. Las etiquetas <header>, <main> y <footer> ordenan el contenido y facilitan su lectura.**
+**7. Las etiquetas header, main y footer ordenan el contenido y facilitan su lectura.**
 
 Es verdad, son la etiquetas base para poder estructurar el desarrollo de nuestra página.
 
@@ -40,7 +40,7 @@ Es verdad, además mejora la accesibilidad de la pagina web. Los lectores de pan
 
 Es verdad, ya que esto facilita la comprensión del contenido tanto para los usuarios como para los algoritmos de indexación.
 
-**11. No se pueden combinar elementos semánticos con otros más genéricos como <div> o <span> en el mismo documento HTML.**
+**11. No se pueden combinar elementos semánticos con otros más genéricos como div o span en el mismo documento HTML.**
 
 Es mito, no hay restricción alguna para eso.
 
